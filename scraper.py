@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import NoSuchElementException
 import time
 import requests
 from io import BytesIO
@@ -25,7 +26,7 @@ pwd_textbox.send_keys('Cs5787dl')
 
 login_btn = driver.find_element(By.CLASS_NAME, "login-button")
 login_btn.click()
-time.sleep(5)
+time.sleep(4)
 
 # once logged in:
 iframe = driver.find_element(
@@ -65,11 +66,16 @@ for page_num in range(1, 41):
         if (not Path(local_path).is_file()):
             driver.get(startup_link)
 
-            time.sleep(3)
+            time.sleep(1.5)
             pitch_divs = driver.find_elements(By.CLASS_NAME, "slide")
 
-            image_links = [div.find_element(By.CLASS_NAME, "lazy-image").get_attribute(
-                "data-srcs").split('"')[1] for div in pitch_divs]
+            image_links = []
+            for div in pitch_divs:
+                try:
+                    image_links.append(div.find_element(By.CLASS_NAME, "lazy-image").get_attribute(
+                        "data-srcs").split('"')[1])
+                except NoSuchElementException:  # spelling error making this code not work as expected
+                    pass
 
             pdf_merger = PdfMerger()
             for img_link in image_links:
@@ -85,11 +91,11 @@ for page_num in range(1, 41):
             with open(local_path, 'wb') as f:
                 pdf_merger.write(f)
 
+            driver.get(table_url)
+            time.sleep(1.5)
+
         row_vals = [local_path] + row_vals
         pitch_df.loc[len(pitch_df)] = row_vals
-
-        driver.get(table_url)
-        time.sleep(3)
 
 pitch_df.to_csv("pitch_decks")
 # time.sleep(5)
