@@ -1,0 +1,988 @@
+,Local Link,Stage,Industry,Region
+0,./InsiderPitchPDFs/0xLabs.pdf,SeriesB,Fintech,N. America
+1,./InsiderPitchPDFs/100plus.pdf,Seed,Healthcare,N. America
+2,./InsiderPitchPDFs/10KC.pdf,Growth,Online learning,N. America
+3,./InsiderPitchPDFs/1906.pdf,SeriesA,Cannabis,N. America
+4,./InsiderPitchPDFs/1inchNetwork.pdf,SeriesB,Fintech,N. America
+5,./InsiderPitchPDFs/7bridges.pdf,Seed,Europe,Europe
+6,./InsiderPitchPDFs/7bridges.pdf,SeriesA,Data management,Europe
+7,./InsiderPitchPDFs/8base.pdf,SeriesA,Enterprise software,N. America
+8,./InsiderPitchPDFs/AChamps.pdf,Seed,Media,N. America
+9,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+10,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+11,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+12,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+13,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+14,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+15,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+16,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+17,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+18,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+19,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+20,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+21,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+22,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+23,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+24,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+25,./InsiderPitchPDFs/AgomAbTherapeutics.pdf,SeriesB,Healthcare,Europe
+26,./InsiderPitchPDFs/Agora.pdf,Seed,Real estate,Middle East
+27,./InsiderPitchPDFs/Agora.pdf,Seed,E-commerce,Europe
+28,./InsiderPitchPDFs/AIRudder.pdf,SeriesB,Enterprise software,Asia
+29,./InsiderPitchPDFs/Airbank.pdf,SeriesA,Fintech,Europe
+30,./InsiderPitchPDFs/Airbase.pdf,SeriesB,Finance,N. America
+31,./InsiderPitchPDFs/Airbnb.pdf,Seed,Hospitality,N. America
+32,./InsiderPitchPDFs/Aircall.pdf,SeriesC,Cloud,Europe
+33,./InsiderPitchPDFs/Aircall.pdf,SeriesD,Cloud,Europe
+34,./InsiderPitchPDFs/airSlate.pdf,SeriesC,Enterprise software,N. America
+35,./InsiderPitchPDFs/Aisera.pdf,SeriesD,Data management,N. America
+36,./InsiderPitchPDFs/AkidoLabs.pdf,SeriesA,Healthcare,N. America
+37,./InsiderPitchPDFs/Albert.pdf,SeriesC,Fintech,N. America
+38,./InsiderPitchPDFs/AlcatrazAI.pdf,SeriesA,Data management,N. America
+39,./InsiderPitchPDFs/Alloy.pdf,SeriesB,Fintech,N. America
+40,./InsiderPitchPDFs/Alloy.pdf,Seed,Healthcare,N. America
+41,./InsiderPitchPDFs/Almanac.pdf,Seed,Enterprise tech,N. America
+42,./InsiderPitchPDFs/AlmostFriday.pdf,Seed,Media,N. America
+43,./InsiderPitchPDFs/Alphin.pdf,SeriesA,Enterprise software,Europe
+44,./InsiderPitchPDFs/Altana.pdf,SeriesB,Data management,N. America
+45,./InsiderPitchPDFs/Alto.pdf,Seed,Fintech,N. America
+46,./InsiderPitchPDFs/Altruist.pdf,SeriesB,Finance,N. America
+47,./InsiderPitchPDFs/Alyce.pdf,SeriesA,Enterprise software,N. America
+48,./InsiderPitchPDFs/Amagi.pdf,Growth,Enterprise software,N. America
+49,./InsiderPitchPDFs/Amberscript.pdf,SeriesA,Enterprise software,Europe
+50,./InsiderPitchPDFs/AscendElements.pdf,SeriesC,Hardware,N. America
+51,./InsiderPitchPDFs/Ascend.pdf,SeriesA,Data management,N. America
+52,./InsiderPitchPDFs/Assembly.pdf,SeriesA,Enterprise software,N. America
+53,./InsiderPitchPDFs/Athennian.pdf,SeriesA,Enterprise software,N. America
+54,./InsiderPitchPDFs/Atomwise.pdf,SeriesB,Data management,N. America
+55,./InsiderPitchPDFs/AudienceTown.pdf,Seed,Advertising,N. America
+56,./InsiderPitchPDFs/AudioMob.pdf,Seed,Enterprise software,Europe
+57,./InsiderPitchPDFs/AudioMob.pdf,SeriesA,Enterprise software,Europe
+58,./InsiderPitchPDFs/Audoo.pdf,SeriesA,Media,Europe
+59,./InsiderPitchPDFs/AukiLabs.pdf,Seed,Virtual reality,Asia
+60,./InsiderPitchPDFs/Aura.pdf,SeriesF,Cybersecurity,N. America
+61,./InsiderPitchPDFs/AurionBiotech.pdf,N/A,Healthcare,N. America
+62,./InsiderPitchPDFs/authIDai.pdf,N/A,Cybersecurity,N. America
+63,./InsiderPitchPDFs/Avo.pdf,SeriesB,Consumer app,N. America
+64,./InsiderPitchPDFs/AwakeSecurity.pdf,SeriesC,Cybersecurity,N. America
+65,./InsiderPitchPDFs/Axelar.pdf,SeriesB,Data management,N. America
+66,./InsiderPitchPDFs/Azowo.pdf,SeriesA,Data management,Europe
+67,./InsiderPitchPDFs/BGreat.pdf,Seed,Cannabis,N. America
+68,./InsiderPitchPDFs/Babylist.pdf,SeriesC,E-commerce,N. America
+69,./InsiderPitchPDFs/Backbone.pdf,SeriesA,Hardware,N. America
+70,./InsiderPitchPDFs/Banxware.pdf,Seed,Fintech,Europe
+71,./InsiderPitchPDFs/Battleface.pdf,SeriesA,Healthcare,N. America
+72,./InsiderPitchPDFs/Beam.pdf,SeriesE,Healthcare,N. America
+73,./InsiderPitchPDFs/BeckleyPsytech.pdf,SeriesA,Healthcare,Europe
+74,./InsiderPitchPDFs/Beem.pdf,Seed,Enterprise software,Europe
+75,./InsiderPitchPDFs/Careem.pdf,Seed,Transportation,Middle East
+76,./InsiderPitchPDFs/Carta.pdf,SeriesD,Fintech,N. America
+77,./InsiderPitchPDFs/Casai.pdf,SeriesA,Real estate,N. America
+78,./InsiderPitchPDFs/Castor.pdf,SeriesB,Enterprise software,N. America
+79,./InsiderPitchPDFs/Caura.pdf,Seed,Transportation,Europe
+80,./InsiderPitchPDFs/Cedar.pdf,SeriesC,Healthcare,N. America
+81,./InsiderPitchPDFs/Cellarity.pdf,SeriesC,Healthcare,N. America
+82,./InsiderPitchPDFs/Cervest.pdf,SeriesA,Real Estate,Europe
+83,./InsiderPitchPDFs/CGHero.pdf,N/A,Media,Europe
+84,./InsiderPitchPDFs/Chaptr.pdf,Seed,Media,N. America
+85,./InsiderPitchPDFs/Chargeebee.pdf,SeriesF,Enterprise,N. America
+86,./InsiderPitchPDFs/Chattermill.pdf,SeriesB,Data management,Europe
+87,./InsiderPitchPDFs/Checkstep.pdf,Seed,Data management,Europe
+88,./InsiderPitchPDFs/ChiliPiper.pdf,SeriesB,Enterprise software,N. America
+89,./InsiderPitchPDFs/Chillchat.pdf,Seed,Fintech,Asia
+90,./InsiderPitchPDFs/Chiper.pdf,SeriesB,E-commerce,S. America
+91,./InsiderPitchPDFs/Chronicle.pdf,Seed,Enterprise software,N. America
+92,./InsiderPitchPDFs/CipherSkin.pdf,SeriesA,Data management,N. America
+93,./InsiderPitchPDFs/Circ.pdf,SeriesB,Hardware,N. America
+94,./InsiderPitchPDFs/Circles.pdf,SeriesA,Healthcare,N. America
+95,./InsiderPitchPDFs/Circular.pdf,SeriesA,Enterprise software,Europe
+96,./InsiderPitchPDFs/Citylitics.pdf,SeriesA,Data management,N. America
+97,./InsiderPitchPDFs/Clair.pdf,Seed,Fintech,N. America
+98,./InsiderPitchPDFs/Claira.pdf,N/A,Data management,N. America
+99,./InsiderPitchPDFs/Clari.pdf,SeriesE,Data management,N. America
+100,./InsiderPitchPDFs/dLocal.pdf,Growth,Fintech,S. America
+101,./InsiderPitchPDFs/DoControl.pdf,SeriesB,Enterprise software,N. America
+102,./InsiderPitchPDFs/DocSend.pdf,pre-Seed,Cloud,N. America
+103,./InsiderPitchPDFs/Domatic.pdf,Seed,Hardware,N. America
+104,./InsiderPitchPDFs/DominoDataHealth.pdf,SeriesE,Data management,N. America
+105,./InsiderPitchPDFs/Doorkee.pdf,Seed,Real estate,N. America
+106,./InsiderPitchPDFs/Doorstead.pdf,SeriesB,Real estate,N. America
+107,./InsiderPitchPDFs/Doorvest.pdf,Seed,Real estate,N. America
+108,./InsiderPitchPDFs/Dutchie.pdf,SeriesB,Cannabis,N. America
+109,./InsiderPitchPDFs/dv01.pdf,SeriesB,Fintech,N. America
+110,./InsiderPitchPDFs/Eaze.pdf,SeriesD,Cannabis,N. America
+111,./InsiderPitchPDFs/EcoLocked.pdf,Seed,Hardware,Europe
+112,./InsiderPitchPDFs/Ecovadis.pdf,Growth,Data management,Europe
+113,./InsiderPitchPDFs/Edge.pdf,Seed,Media,Europe
+114,./InsiderPitchPDFs/Edgify.pdf,Seed,Data management,Europe
+115,./InsiderPitchPDFs/ElasticStage.pdf,Seed,Hardware,Europe
+116,./InsiderPitchPDFs/ElevenLabs.pdf,Pre-seed,Data management,Europe
+117,./InsiderPitchPDFs/Elisity.pdf,Seed,Cybersecurity,N. America
+118,./InsiderPitchPDFs/Elisity.pdf,SeriesA,Cybersecurity,N. America
+119,./InsiderPitchPDFs/Eliyan.pdf,SeriesA,Hardware,N. America
+120,./InsiderPitchPDFs/Ellis.pdf,Seed,Fintech,N. America
+121,./InsiderPitchPDFs/Elo.pdf,SeriesA,Retail,N. America
+122,./InsiderPitchPDFs/Elopage.pdf,SeriesA,E-commerce,Europe
+123,./InsiderPitchPDFs/Emitwise.pdf,Seed,Data management,Europe
+124,./InsiderPitchPDFs/Emocha.pdf,N/A,Healthcare,N. America
+125,./InsiderPitchPDFs/HelloHeart.pdf,SeriesD,Healthcare,N. America
+126,./InsiderPitchPDFs/HelpLightning.pdf,Series A,Enterprise/AR,N. America
+127,./InsiderPitchPDFs/Here.pdf,Seed,Real estate,N. America
+128,./InsiderPitchPDFs/Herv.pdf,SeriesA,Cannabis,N. America
+129,./InsiderPitchPDFs/Heura.pdf,N/A,Retail,Europe
+130,./InsiderPitchPDFs/Heyday.pdf,Seed,Enterprise software,N. America
+131,./InsiderPitchPDFs/HiBob.pdf,SeriesD,Enterprise software,Middle East
+132,./InsiderPitchPDFs/HingeHealth.pdf,SeriesD,Healthcare,N. America
+133,./InsiderPitchPDFs/HintHealth.pdf,SeriesB,Healthcare,N. America
+134,./InsiderPitchPDFs/Hintsa.pdf,SeriesA,Healthcare,N. America
+135,./InsiderPitchPDFs/HMBradley.pdf,SeriesA,Fintech,N. America
+136,./InsiderPitchPDFs/HMNC.pdf,Growth,Healthcare,Europe
+137,./InsiderPitchPDFs/Holloway.pdf,Seed,Media,N. America
+138,./InsiderPitchPDFs/Hologram.pdf,SeriesB,Enterprise software,N. America
+139,./InsiderPitchPDFs/Hometalk.pdf,SeriesA,Consumer app,N. America
+140,./InsiderPitchPDFs/Hone.pdf,SeriesB,Online learning,N. America
+141,./InsiderPitchPDFs/Honey.pdf,Seed,E-commerce,N. America
+142,./InsiderPitchPDFs/HoneyBook.pdf,SeriesD,Finance,N. America
+143,./InsiderPitchPDFs/Honeycomb.pdf,SeriesA,Real estate,N. America
+144,./InsiderPitchPDFs/Hopper.pdf,SeriesG,Fintech,N. America
+145,./InsiderPitchPDFs/Hopscotch.pdf,Seed,Healthcare,N. America
+146,./InsiderPitchPDFs/HourOne.pdf,SeriesA,Data management,Middle East
+147,./InsiderPitchPDFs/Hourly.pdf,SeriesA,Enterprise software,N. America
+148,./InsiderPitchPDFs/Howdy.pdf,SeriesA,Enterprise software,N. America
+149,./InsiderPitchPDFs/HTEC.pdf,Growth,Enterprise software,Europe
+150,./InsiderPitchPDFs/Marshmallow.pdf,SeriesB,Transportation,Europe
+151,./InsiderPitchPDFs/Marshmallow.pdf,SeriesA,Healthcare,Europe
+152,./InsiderPitchPDFs/Martech.pdf,SeriesA,Enterprise software,Europe
+153,./InsiderPitchPDFs/Matchory.pdf,Seed,Enterprise software,Europe
+154,./InsiderPitchPDFs/Mathison.pdf,SeriesA,Enterprise software,N. America
+155,./InsiderPitchPDFs/Maven.pdf,post-IPO,Enterprise software,N. America
+156,./InsiderPitchPDFs/Maven.pdf,Growth,Enterprise software,N. America
+157,./InsiderPitchPDFs/Medable.pdf,SeriesD,Healthcare,N. America
+158,./InsiderPitchPDFs/Medaltv.pdf,SeriesC,Media,Europe
+159,./InsiderPitchPDFs/MedArrive.pdf,SeriesA,Healthcare,N. America
+160,./InsiderPitchPDFs/MedCrypt.pdf,SeriesB,Cybersecurity,N. America
+161,./InsiderPitchPDFs/MediaKits.pdf,Pre-seed,Media,N. America
+162,./InsiderPitchPDFs/MediaKits.pdf,Pre-seed,Media,N. America
+163,./InsiderPitchPDFs/MelioraTherapeudics.pdf,Seed,Healthcare,N. America
+164,./InsiderPitchPDFs/Memo.pdf,SeriesA,Enterprise software,
+165,./InsiderPitchPDFs/MenloMicro.pdf,SeriesB,Consumer electronics,N. America
+166,./InsiderPitchPDFs/MercadoBitcoin.pdf,SeriesB,Fintech,S. America
+167,./InsiderPitchPDFs/MessageBird.pdf,SeriesA,Cloud,Europe
+168,./InsiderPitchPDFs/Metaphysic.pdf,Seed,Media,Europe
+169,./InsiderPitchPDFs/Metaview.pdf,Seed,Enterprise software,Europe
+170,./InsiderPitchPDFs/MethodFinancial.pdf,Pre-seed,Fintech,N. America
+171,./InsiderPitchPDFs/MigaHealth.pdf,Seed,Healthcare,N. America
+172,./InsiderPitchPDFs/Mine.pdf,SeriesA,Data management,Middle East
+173,./InsiderPitchPDFs/Mine.pdf,SeriesA,Data management,Middle East
+174,./InsiderPitchPDFs/Minna.pdf,SeriesB,Fintech,Europe
+175,./InsiderPitchPDFs/PQShield.pdf,SeriesA,Cybersecurity,Europe
+176,./InsiderPitchPDFs/PQShield.pdf,Seed,Cybersecurity,Europe
+177,./InsiderPitchPDFs/PrimaryBid.pdf,SeriesB,Fintech,Europe
+178,./InsiderPitchPDFs/PrimaryBid.pdf,SeriesC,Fintech,Europe
+179,./InsiderPitchPDFs/Primer.pdf,SeriesA,Enterprise software,N. America
+180,./InsiderPitchPDFs/Productfy.pdf,SeriesA,Fintech,N. America
+181,./InsiderPitchPDFs/Promethium.pdf,SeriesA,Data management,N. America
+182,./InsiderPitchPDFs/ProofTechnology.pdf,SeriesA,Enterprise software,N. America
+183,./InsiderPitchPDFs/ProperFinance.pdf,Seed,Fintech,N. America
+184,./InsiderPitchPDFs/Proper.pdf,Seed,Healthcare,N. America
+185,./InsiderPitchPDFs/PublicGoods.pdf,Seed,Retail,N. America
+186,./InsiderPitchPDFs/Pulley.pdf,SeriesA,Data management,N. America
+187,./InsiderPitchPDFs/PyramidAnalytics.pdf,SeriesE,Data management,Europe
+188,./InsiderPitchPDFs/Qonsent.pdf,Seed,Data management,N. America
+189,./InsiderPitchPDFs/Qover.pdf,SeriesB,Enterprise software,Europe
+190,./InsiderPitchPDFs/Quaise.pdf,SeriesA,Hardware,N. America
+191,./InsiderPitchPDFs/Quantexa.pdf,SeriesD,Data management,N. America
+192,./InsiderPitchPDFs/QuestDB.pdf,SeriesA,Data management,N. America
+193,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+194,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+195,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+196,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+197,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+198,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+199,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+200,./InsiderPitchPDFs/Connectly.pdf,SeriesA,Enterprise software,N. America
+201,./InsiderPitchPDFs/Contractbook.pdf,SeriesA,Legal tech,N. America
+202,./InsiderPitchPDFs/Convelio.pdf,SeriesB,Enterprise software,Europe
+203,./InsiderPitchPDFs/Convious.pdf,SeriesA,E-commerce,Europe
+204,./InsiderPitchPDFs/Copado.pdf,SeriesB,Enterprise software,N. America
+205,./InsiderPitchPDFs/Copado.pdf,SeriesC,Enterprise software,N. America
+206,./InsiderPitchPDFs/Copyai.pdf,SeriesA,Enterprise software,N. America
+207,./InsiderPitchPDFs/Coralogix.pdf,SeriesC,Data management,N. America
+208,./InsiderPitchPDFs/Coralogix.pdf,SeriesD,Data management,N. America
+209,./InsiderPitchPDFs/Counterpart.pdf,SeriesB,Enterprise software,N. America
+210,./InsiderPitchPDFs/Countingup.pdf,SeriesA,Fintech,Europe
+211,./InsiderPitchPDFs/CourtCorrect.pdf,Seed,Enterprise software,Europe
+212,./InsiderPitchPDFs/CoveTool.pdf,SeriesA,Real estate,N. America
+213,./InsiderPitchPDFs/CoverGenius.pdf,Venture,Cybersecurity,Australia
+214,./InsiderPitchPDFs/Covey.pdf,Seed,Fintech,N. America
+215,./InsiderPitchPDFs/Cowboy.pdf,SeriesC,Transportation,Europe
+216,./InsiderPitchPDFs/Cradle.pdf,Seed,Hardware,Europe
+217,./InsiderPitchPDFs/Craftio.pdf,SeriesA,Enterprise software,Middle East
+218,./InsiderPitchPDFs/CreativeFabrica.pdf,SeriesB,Enterprise software,Europe
+219,./InsiderPitchPDFs/Crisp.pdf,SeriesB,Consumer app,Europe
+220,./InsiderPitchPDFs/Crossbeam.pdf,SeriesA,Enterprise tech,N. America
+221,./InsiderPitchPDFs/Crowdbotics.pdf,SeriesA,Data management,N. America
+222,./InsiderPitchPDFs/Crunchbase.pdf,SeriesC,Media,N. America
+223,./InsiderPitchPDFs/Cube.pdf,SeriesB,Fintech,N. America
+224,./InsiderPitchPDFs/Curastory.pdf,Seed,Media,N. America
+225,./InsiderPitchPDFs/Island.pdf,SeriesB,Enterprise software,N. America
+226,./InsiderPitchPDFs/Iterable.pdf,SeriesD,Enterprise software,N. America
+227,./InsiderPitchPDFs/iTrustCapital.pdf,SeriesA,Fintech,N. America
+228,./InsiderPitchPDFs/JIFFYai.pdf,SeriesA,Enterprise software,N. America
+229,./InsiderPitchPDFs/Jobox.pdf,SeriesB,Enterprise software,N. America
+230,./InsiderPitchPDFs/Joonko.pdf,SeriesB,Enterprise software,N. America
+231,./InsiderPitchPDFs/Jubilee.pdf,Seed,Media,N. America
+232,./InsiderPitchPDFs/July.pdf,Pre-seed,Enterprise software,N. America
+233,./InsiderPitchPDFs/JuneHomes.pdf,SeriesB,Real estate,N. America
+234,./InsiderPitchPDFs/Juno.pdf,N/A,Enterprise software,Europe
+235,./InsiderPitchPDFs/Juro.pdf,SeriesB,Enterprise software,Europe
+236,./InsiderPitchPDFs/JusMundi.pdf,SeriesA,Enterprise software,Europe
+237,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+238,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+239,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+240,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+241,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+242,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+243,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+244,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+245,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+246,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+247,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+248,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+249,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+250,./InsiderPitchPDFs/dLocal.pdf,Growth,Fintech,S. America
+251,./InsiderPitchPDFs/DoControl.pdf,SeriesB,Enterprise software,N. America
+252,./InsiderPitchPDFs/DocSend.pdf,pre-Seed,Cloud,N. America
+253,./InsiderPitchPDFs/Domatic.pdf,Seed,Hardware,N. America
+254,./InsiderPitchPDFs/DominoDataHealth.pdf,SeriesE,Data management,N. America
+255,./InsiderPitchPDFs/Doorkee.pdf,Seed,Real estate,N. America
+256,./InsiderPitchPDFs/Doorstead.pdf,SeriesB,Real estate,N. America
+257,./InsiderPitchPDFs/Doorvest.pdf,Seed,Real estate,N. America
+258,./InsiderPitchPDFs/Dutchie.pdf,SeriesB,Cannabis,N. America
+259,./InsiderPitchPDFs/dv01.pdf,SeriesB,Fintech,N. America
+260,./InsiderPitchPDFs/Eaze.pdf,SeriesD,Cannabis,N. America
+261,./InsiderPitchPDFs/EcoLocked.pdf,Seed,Hardware,Europe
+262,./InsiderPitchPDFs/Ecovadis.pdf,Growth,Data management,Europe
+263,./InsiderPitchPDFs/Edge.pdf,Seed,Media,Europe
+264,./InsiderPitchPDFs/Edgify.pdf,Seed,Data management,Europe
+265,./InsiderPitchPDFs/ElasticStage.pdf,Seed,Hardware,Europe
+266,./InsiderPitchPDFs/ElevenLabs.pdf,Pre-seed,Data management,Europe
+267,./InsiderPitchPDFs/Elisity.pdf,Seed,Cybersecurity,N. America
+268,./InsiderPitchPDFs/Elisity.pdf,SeriesA,Cybersecurity,N. America
+269,./InsiderPitchPDFs/Eliyan.pdf,SeriesA,Hardware,N. America
+270,./InsiderPitchPDFs/Ellis.pdf,Seed,Fintech,N. America
+271,./InsiderPitchPDFs/Elo.pdf,SeriesA,Retail,N. America
+272,./InsiderPitchPDFs/Elopage.pdf,SeriesA,E-commerce,Europe
+273,./InsiderPitchPDFs/Emitwise.pdf,Seed,Data management,Europe
+274,./InsiderPitchPDFs/Emocha.pdf,N/A,Healthcare,N. America
+275,./InsiderPitchPDFs/Marshmallow.pdf,SeriesB,Transportation,Europe
+276,./InsiderPitchPDFs/Marshmallow.pdf,SeriesA,Healthcare,Europe
+277,./InsiderPitchPDFs/Martech.pdf,SeriesA,Enterprise software,Europe
+278,./InsiderPitchPDFs/Matchory.pdf,Seed,Enterprise software,Europe
+279,./InsiderPitchPDFs/Mathison.pdf,SeriesA,Enterprise software,N. America
+280,./InsiderPitchPDFs/Maven.pdf,post-IPO,Enterprise software,N. America
+281,./InsiderPitchPDFs/Maven.pdf,Growth,Enterprise software,N. America
+282,./InsiderPitchPDFs/Medable.pdf,SeriesD,Healthcare,N. America
+283,./InsiderPitchPDFs/Medaltv.pdf,SeriesC,Media,Europe
+284,./InsiderPitchPDFs/MedArrive.pdf,SeriesA,Healthcare,N. America
+285,./InsiderPitchPDFs/MedCrypt.pdf,SeriesB,Cybersecurity,N. America
+286,./InsiderPitchPDFs/MediaKits.pdf,Pre-seed,Media,N. America
+287,./InsiderPitchPDFs/MediaKits.pdf,Pre-seed,Media,N. America
+288,./InsiderPitchPDFs/MelioraTherapeudics.pdf,Seed,Healthcare,N. America
+289,./InsiderPitchPDFs/Memo.pdf,SeriesA,Enterprise software,
+290,./InsiderPitchPDFs/MenloMicro.pdf,SeriesB,Consumer electronics,N. America
+291,./InsiderPitchPDFs/MercadoBitcoin.pdf,SeriesB,Fintech,S. America
+292,./InsiderPitchPDFs/MessageBird.pdf,SeriesA,Cloud,Europe
+293,./InsiderPitchPDFs/Metaphysic.pdf,Seed,Media,Europe
+294,./InsiderPitchPDFs/Metaview.pdf,Seed,Enterprise software,Europe
+295,./InsiderPitchPDFs/MethodFinancial.pdf,Pre-seed,Fintech,N. America
+296,./InsiderPitchPDFs/MigaHealth.pdf,Seed,Healthcare,N. America
+297,./InsiderPitchPDFs/Mine.pdf,SeriesA,Data management,Middle East
+298,./InsiderPitchPDFs/Mine.pdf,SeriesA,Data management,Middle East
+299,./InsiderPitchPDFs/Minna.pdf,SeriesB,Fintech,Europe
+300,./InsiderPitchPDFs/Starburst.pdf,SeriesD,Data management,N. America
+301,./InsiderPitchPDFs/StarkWare.pdf,SeriesC,Fintech,Middle East
+302,./InsiderPitchPDFs/StationMD.pdf,Seed,Healthcare,N. America
+303,./InsiderPitchPDFs/Stayflexi.pdf,Seed,Hospitality,N. America
+304,./InsiderPitchPDFs/Sternum.pdf,SeriesA,Cybersecurity,Middle East
+305,./InsiderPitchPDFs/Stix.pdf,SeriesA,Retail,N. America
+306,./InsiderPitchPDFs/Stoke.pdf,Seed,Enterprise software,N. America
+307,./InsiderPitchPDFs/Storai.pdf,SeriesA,E-commerce,Middle East
+308,./InsiderPitchPDFs/AChamps.pdf,Seed,Media,N. America
+309,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+310,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+311,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+312,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+313,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+314,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+315,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+316,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+317,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+318,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+319,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+320,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+321,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+322,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+323,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+324,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+325,./InsiderPitchPDFs/Front.pdf,SeriesD,Enterprise software,N. America
+326,./InsiderPitchPDFs/Front.pdf,SeriesB,Enterprise software,N. America
+327,./InsiderPitchPDFs/Frontegg.pdf,SeriesA,Enterprise software,Middle East
+328,./InsiderPitchPDFs/Fungible.pdf,Series C,Data management,N. America
+329,./InsiderPitchPDFs/FXHedgePool.pdf,SeriesA,Fintech,N. America
+330,./InsiderPitchPDFs/Fyllo.pdf,SeriesA,Data management,N. America
+331,./InsiderPitchPDFs/Gearflow.pdf,Seed,Real estate,N. America
+332,./InsiderPitchPDFs/Gelt.pdf,Seed,Fintech,N. America
+333,./InsiderPitchPDFs/Gensyn.pdf,Seed,Data management,Europe
+334,./InsiderPitchPDFs/GetAccept.pdf,SeriesB,Enterprise software,Europe
+335,./InsiderPitchPDFs/Giddy.pdf,Seed,Fintech,N. America
+336,./InsiderPitchPDFs/Giraffe360.pdf,Seed,Real estate,Europe
+337,./InsiderPitchPDFs/Giraffe360.pdf,SeriesA,Real estate,Europe
+338,./InsiderPitchPDFs/Gitpod.pdf,Seed,Coding,Europe
+339,./InsiderPitchPDFs/GlobalWonks.pdf,Seed,Networking,N. America
+340,./InsiderPitchPDFs/GlossGenius.pdf,SeriesA,Fintech,N. America
+341,./InsiderPitchPDFs/GlowLabs.pdf,Seed,Fintech,N. America
+342,./InsiderPitchPDFs/Goldcast.pdf,SeriesA,Enterprise software,N. America
+343,./InsiderPitchPDFs/GoodLoop.pdf,SeriesA,Advertising,Europe
+344,./InsiderPitchPDFs/Goodcall.pdf,Seed,Enterprise software,N. America
+345,./InsiderPitchPDFs/Google.pdf,(Tool),(Pitch deck template),N. America
+346,./InsiderPitchPDFs/GoStudent.pdf,SeriesC,Education,Europe
+347,./InsiderPitchPDFs/Grain.pdf,SeriesA,Enterprise software,N. America
+348,./InsiderPitchPDFs/Granulate.pdf,SeriesA,Enterprise software,Middle East
+349,./InsiderPitchPDFs/Granulate.pdf,SeriesB,Data management,Middle East
+350,./InsiderPitchPDFs/Persona.pdf,SeriesC,Enterprise software,N. America
+351,./InsiderPitchPDFs/Personetics.pdf,Growth,Fintech,Middle East
+352,./InsiderPitchPDFs/Phenom.pdf,SeriesD,Enterprise software,N. America
+353,./InsiderPitchPDFs/Picnic.pdf,SeriesA,Advertising,Europe
+354,./InsiderPitchPDFs/PilgrimSoul.pdf,Seed,Cannabis,N. America
+355,./InsiderPitchPDFs/Pillar.pdf,Seed,Fintech,N. America
+356,./InsiderPitchPDFs/Pinecone.pdf,SeriesA,Data management,N. America
+357,./InsiderPitchPDFs/Pinwheel.pdf,SeriesB,Data management,N. America
+358,./InsiderPitchPDFs/PistilData.pdf,Seed,Cannabis,N. America
+359,./InsiderPitchPDFs/Pitch.pdf,SeriesB,Enterprise software,Europe
+360,./InsiderPitchPDFs/Pixeom.pdf,SeriesA,Enterprise software,N. America
+361,./InsiderPitchPDFs/PlanetWatchers.pdf,SeriesA,Enterprise software,Europe
+362,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+363,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+364,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+365,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+366,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+367,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+368,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+369,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+370,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+371,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+372,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+373,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+374,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+375,./InsiderPitchPDFs/HelloHeart.pdf,SeriesD,Healthcare,N. America
+376,./InsiderPitchPDFs/HelpLightning.pdf,Series A,Enterprise/AR,N. America
+377,./InsiderPitchPDFs/Here.pdf,Seed,Real estate,N. America
+378,./InsiderPitchPDFs/Herv.pdf,SeriesA,Cannabis,N. America
+379,./InsiderPitchPDFs/Heura.pdf,N/A,Retail,Europe
+380,./InsiderPitchPDFs/Heyday.pdf,Seed,Enterprise software,N. America
+381,./InsiderPitchPDFs/HiBob.pdf,SeriesD,Enterprise software,Middle East
+382,./InsiderPitchPDFs/HingeHealth.pdf,SeriesD,Healthcare,N. America
+383,./InsiderPitchPDFs/HintHealth.pdf,SeriesB,Healthcare,N. America
+384,./InsiderPitchPDFs/Hintsa.pdf,SeriesA,Healthcare,N. America
+385,./InsiderPitchPDFs/HMBradley.pdf,SeriesA,Fintech,N. America
+386,./InsiderPitchPDFs/HMNC.pdf,Growth,Healthcare,Europe
+387,./InsiderPitchPDFs/Holloway.pdf,Seed,Media,N. America
+388,./InsiderPitchPDFs/Hologram.pdf,SeriesB,Enterprise software,N. America
+389,./InsiderPitchPDFs/Hometalk.pdf,SeriesA,Consumer app,N. America
+390,./InsiderPitchPDFs/Hone.pdf,SeriesB,Online learning,N. America
+391,./InsiderPitchPDFs/Honey.pdf,Seed,E-commerce,N. America
+392,./InsiderPitchPDFs/HoneyBook.pdf,SeriesD,Finance,N. America
+393,./InsiderPitchPDFs/Honeycomb.pdf,SeriesA,Real estate,N. America
+394,./InsiderPitchPDFs/Hopper.pdf,SeriesG,Fintech,N. America
+395,./InsiderPitchPDFs/Hopscotch.pdf,Seed,Healthcare,N. America
+396,./InsiderPitchPDFs/HourOne.pdf,SeriesA,Data management,Middle East
+397,./InsiderPitchPDFs/Hourly.pdf,SeriesA,Enterprise software,N. America
+398,./InsiderPitchPDFs/Howdy.pdf,SeriesA,Enterprise software,N. America
+399,./InsiderPitchPDFs/HTEC.pdf,Growth,Enterprise software,Europe
+400,./InsiderPitchPDFs/Selfbook.pdf,SeriesA,Travel,N. America
+401,./InsiderPitchPDFs/SempreHealth.pdf,SeriesA,Healthcare,N. America
+402,./InsiderPitchPDFs/Setpoint.pdf,SeriesA,Real estate,N. America
+403,./InsiderPitchPDFs/Seyna.pdf,SeriesA,Enterprise software,Europe
+404,./InsiderPitchPDFs/Shares.pdf,SeriesB,Fintech,Europe
+405,./InsiderPitchPDFs/Sharpist.pdf,SeriesA,Enterprise software,Europe
+406,./InsiderPitchPDFs/Sherpa.pdf,Seed,Travel,N. America
+407,./InsiderPitchPDFs/Shipium.pdf,SeriesB,E-commerce,N. America
+408,./InsiderPitchPDFs/SignalAI.pdf,SeriesC,Data management,Europe
+409,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+410,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+411,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+412,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+413,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+414,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+415,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+416,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+417,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+418,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+419,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+420,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+421,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+422,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+423,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+424,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+425,./InsiderPitchPDFs/Island.pdf,SeriesB,Enterprise software,N. America
+426,./InsiderPitchPDFs/Iterable.pdf,SeriesD,Enterprise software,N. America
+427,./InsiderPitchPDFs/iTrustCapital.pdf,SeriesA,Fintech,N. America
+428,./InsiderPitchPDFs/JIFFYai.pdf,SeriesA,Enterprise software,N. America
+429,./InsiderPitchPDFs/Jobox.pdf,SeriesB,Enterprise software,N. America
+430,./InsiderPitchPDFs/Joonko.pdf,SeriesB,Enterprise software,N. America
+431,./InsiderPitchPDFs/Jubilee.pdf,Seed,Media,N. America
+432,./InsiderPitchPDFs/July.pdf,Pre-seed,Enterprise software,N. America
+433,./InsiderPitchPDFs/JuneHomes.pdf,SeriesB,Real estate,N. America
+434,./InsiderPitchPDFs/Juno.pdf,N/A,Enterprise software,Europe
+435,./InsiderPitchPDFs/Juro.pdf,SeriesB,Enterprise software,Europe
+436,./InsiderPitchPDFs/JusMundi.pdf,SeriesA,Enterprise software,Europe
+437,./InsiderPitchPDFs/Justpoint.pdf,Seed,Data management,N. America
+438,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+439,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+440,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+441,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+442,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+443,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+444,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+445,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+446,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+447,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+448,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+449,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+450,./InsiderPitchPDFs/KeroSports.pdf,Seed,Consumer app,N. America
+451,./InsiderPitchPDFs/Kerv.pdf,Growth,Media,N. America
+452,./InsiderPitchPDFs/Kewazo.pdf,SeriesA,Hardware,Europe
+453,./InsiderPitchPDFs/Keyway.pdf,Seed,Real estate,N. America
+454,./InsiderPitchPDFs/KiliTechnology.pdf,SeriesA,Data management,Europe
+455,./InsiderPitchPDFs/Kinspire.pdf,Seed,Healthcare,N. America
+456,./InsiderPitchPDFs/KituLife.pdf,SeriesA,Consumer app,N. America
+457,./InsiderPitchPDFs/KituLife.pdf,SeriesC,Retail,N. America
+458,./InsiderPitchPDFs/Klue.pdf,SeriesA,Data management,N. America
+459,./InsiderPitchPDFs/Knak.pdf,SeriesA,Enterprise software,N. America
+460,./InsiderPitchPDFs/Knowledgehook.pdf,SeriesA,Education,N. America
+461,./InsiderPitchPDFs/Knowunity.pdf,SeriesA,Online learning,Europe
+462,./InsiderPitchPDFs/Koala.pdf,SeriesA,Real estate,N. America
+463,./InsiderPitchPDFs/Koffie.pdf,SeriesA,Enterprise software,N. America
+464,./InsiderPitchPDFs/Komodor.pdf,SeriesA,Enterprise software,Middle East
+465,./InsiderPitchPDFs/Kona.pdf,Seed,Enterprise software,N. America
+466,./InsiderPitchPDFs/Kong.pdf,SeriesC,Enterprise software,N. America
+467,./InsiderPitchPDFs/KOS.pdf,SeriesA,Retail,N. America
+468,./InsiderPitchPDFs/Krew.pdf,Seed,Consumer app,Europe
+469,./InsiderPitchPDFs/Kryptomon.pdf,SeriesA,Media,Europe
+470,./InsiderPitchPDFs/Kyra.pdf,SeriesA,Media,Europe
+471,./InsiderPitchPDFs/Labster.pdf,SeriesC,Online Learning,Europe
+472,./InsiderPitchPDFs/Labviva.pdf,SeriesA,Enterprise software,N. America
+473,./InsiderPitchPDFs/Ladder.pdf,SeriesD,Fintech,N. America
+474,./InsiderPitchPDFs/LambdaSchool.pdf,SeriesC,Education,N. America
+475,./InsiderPitchPDFs/Upstream.pdf,Seed,Consumer app,N. America
+476,./InsiderPitchPDFs/Uptime.pdf,Seed,Online learning,Europe
+477,./InsiderPitchPDFs/Uptop.pdf,Seed,Real estate,N. America
+478,./InsiderPitchPDFs/Upvest.pdf,SeriesA,Fintech,Europe
+479,./InsiderPitchPDFs/UtilizeCore.pdf,Seed,Real Estate,N. America
+480,./InsiderPitchPDFs/V7.pdf,SeriesA,Data management,Europe
+481,./InsiderPitchPDFs/Vaayu.pdf,Seed,Enterprise software,Europe
+482,./InsiderPitchPDFs/Valuecase.pdf,Pre-seed,Enterprise software,Europe
+483,./InsiderPitchPDFs/VanMoof.pdf,SeriesB,Transportation,Europe
+484,./InsiderPitchPDFs/Veem.pdf,Strategic round,Fintech,N. America
+485,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+486,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+487,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+488,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+489,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+490,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+491,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+492,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+493,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+494,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+495,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+496,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+497,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+498,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+499,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+500,./InsiderPitchPDFs/Lolacom.pdf,SeriesC,Travel,N. America
+501,./InsiderPitchPDFs/Lollipop.pdf,Seed,Consumer app,Europe
+502,./InsiderPitchPDFs/LordoftheTrees.pdf,pre-seed,Retail,Australia
+503,./InsiderPitchPDFs/LottieLab.pdf,Seed,Media,Europe
+504,./InsiderPitchPDFs/LucidLink.pdf,SeriesB,Enterprise software,N. America
+505,./InsiderPitchPDFs/Ludex.pdf,Seed,Consumer app,N. America
+506,./InsiderPitchPDFs/Luko.pdf,SeriesB,Healthcare,Europe
+507,./InsiderPitchPDFs/Lula.pdf,SeriesA,Enterprise software,N. America
+508,./InsiderPitchPDFs/Lumanu.pdf,SeriesA,Enterprise software,N. America
+509,./InsiderPitchPDFs/LumApps.pdf,SeriesC,Cloud,Europe
+510,./InsiderPitchPDFs/Lumiform.pdf,SeriesA,Enterprise software,Europe
+511,./InsiderPitchPDFs/Lunchbox.pdf,Seed,Consumer app,N. America
+512,./InsiderPitchPDFs/Lunchclub.pdf,Seed,Social media,N. America
+513,./InsiderPitchPDFs/Lunio.pdf,SeriesA,Enterprise software,Europe
+514,./InsiderPitchPDFs/Lusha.pdf,SeriesB,Enterprise software,Middle East
+515,./InsiderPitchPDFs/Lyric.pdf,SeriesB,Hospitality,N. America
+516,./InsiderPitchPDFs/M3O.pdf,Seed,Data management,Europe
+517,./InsiderPitchPDFs/Macro.pdf,Seed,Enterprise software,N. America
+518,./InsiderPitchPDFs/Macrometa.pdf,SeriesA,Cloud,N. America
+519,./InsiderPitchPDFs/Maestro.pdf,SeriesB,Media,N. America
+520,./InsiderPitchPDFs/Makersite.pdf,SeriesA,Enterprise software,Europe
+521,./InsiderPitchPDFs/Mambu.pdf,SeriesE,Fintech,Europe
+522,./InsiderPitchPDFs/Mambu.pdf,SeriesD,Fintech,Europe
+523,./InsiderPitchPDFs/MangroveLithium.pdf,SeriesA,Hardware,N. America
+524,./InsiderPitchPDFs/Marpipe.pdf,SeriesA,Data management,N. America
+525,./InsiderPitchPDFs/YumiNutrition.pdf,Seed,Consumer app,Europe
+526,./InsiderPitchPDFs/Zestful.pdf,Seed,Enterprise software,N. America
+527,./InsiderPitchPDFs/Zeta.pdf,SeriesC,Fintech,Asia
+528,./InsiderPitchPDFs/Zevoy.pdf,SeriesA,Fintech,Europe
+529,./InsiderPitchPDFs/1inchNetwork.pdf,SeriesB,Fintech,N. America
+530,./InsiderPitchPDFs/7bridges.pdf,Seed,Europe,Europe
+531,./InsiderPitchPDFs/Miraki.pdf,SeriesE,Enterprise software,N. America
+532,./InsiderPitchPDFs/Miren.pdf,N/A,Fintech,N. America
+533,./InsiderPitchPDFs/MishasKindFoods.pdf,Seed,Retail,N. America
+534,./InsiderPitchPDFs/Mixpanel.pdf,SeriesC,Data management,N. America
+535,./InsiderPitchPDFs/Mmob.pdf,Seed,Fintech,Europe
+536,./InsiderPitchPDFs/7bridges.pdf,Seed,Europe,Europe
+537,./InsiderPitchPDFs/7bridges.pdf,SeriesA,Data management,Europe
+538,./InsiderPitchPDFs/8base.pdf,SeriesA,Enterprise software,N. America
+539,./InsiderPitchPDFs/AChamps.pdf,Seed,Media,N. America
+540,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+541,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+542,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+543,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+544,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+545,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+546,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+547,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+548,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+549,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+550,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+551,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+552,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+553,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+554,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+555,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+556,./InsiderPitchPDFs/NaorisProtocol.pdf,N/A,Cybersecurity,Europe
+557,./InsiderPitchPDFs/Narrative.pdf,SeriesA,Data management,N. America
+558,./InsiderPitchPDFs/Navina.pdf,Seed,Healthcare,Middle East
+559,./InsiderPitchPDFs/Nectar.pdf,SeriesA,Healthcare,N. America
+560,./InsiderPitchPDFs/NetAPorter.pdf,Seed,Cannabis,N. America
+561,./InsiderPitchPDFs/NeuraLegion.pdf,Seed,Cybersecurity,Middle East
+562,./InsiderPitchPDFs/NeuroID.pdf,SeriesA,Fintech / security,N. America
+563,./InsiderPitchPDFs/8base.pdf,SeriesA,Enterprise software,N. America
+564,./InsiderPitchPDFs/AChamps.pdf,Seed,Media,N. America
+565,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+566,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+567,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+568,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+569,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+570,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+571,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+572,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+573,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+574,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+575,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+576,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+577,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+578,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+579,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+580,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+581,./InsiderPitchPDFs/Numeral.pdf,Seed,Fintech,Europe
+582,./InsiderPitchPDFs/Nuvia.pdf,SeriesB,Data management,N. America
+583,./InsiderPitchPDFs/NVision.pdf,N/A,Healthcare,Europe
+584,./InsiderPitchPDFs/Nylas.pdf,SeriesC,Enterprise software,N. America
+585,./InsiderPitchPDFs/Octi.pdf,Seed,Social media,N. America
+586,./InsiderPitchPDFs/OctoML.pdf,SeriesC,Data management,N. America
+587,./InsiderPitchPDFs/Offr.pdf,Seed,Real estate,Europe
+588,./InsiderPitchPDFs/OKPlay.pdf,SeriesA,Child education,N. America
+589,./InsiderPitchPDFs/Okteto.pdf,SeriesA,Enterprise software,N. America
+590,./InsiderPitchPDFs/Oliva.pdf,Pre-seed,Enterprise software,Europe
+591,./InsiderPitchPDFs/Oloid.pdf,SeriesA,Enterprise software,N. America
+592,./InsiderPitchPDFs/Olsam.pdf,SeriesA,Enterprise software,Europe
+593,./InsiderPitchPDFs/Omi.pdf,Seed,Enterprise software,Europe
+594,./InsiderPitchPDFs/Omnipresent.pdf,Seed,Enterprise tech,Europe
+595,./InsiderPitchPDFs/OnePointFive.pdf,Seed,Hardware,Europe
+596,./InsiderPitchPDFs/OneD.pdf,SeriesC,Transportation,N. America
+597,./InsiderPitchPDFs/OneLeaf.pdf,Seed,Healthcare,Europe
+598,./InsiderPitchPDFs/OneScreenai.pdf,Pre-seed,Advertising,N. America
+599,./InsiderPitchPDFs/Onfido.pdf,SeriesD,Cybersecurity,Europe
+600,./InsiderPitchPDFs/Onfleet.pdf,SeriesA,Enterprise software,N. America
+601,./InsiderPitchPDFs/Onramper.pdf,Seed,Fintech,Europe
+602,./InsiderPitchPDFs/Onramper.pdf,Seed,Fintech,Europe
+603,./InsiderPitchPDFs/Onto.pdf,SeriesB,Transportation,N. America
+604,./InsiderPitchPDFs/OpenForestProtocol.pdf,Pre-seed,Fintech,Europe
+605,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+606,./InsiderPitchPDFs/OpenSpace.pdf,SeriesA,Construction,N. America
+607,./InsiderPitchPDFs/Opkit.pdf,Seed,Healthcare,N. America
+608,./InsiderPitchPDFs/OppZo.pdf,Seed,Enterprise software,N. America
+609,./InsiderPitchPDFs/Orbit.pdf,SeriesA,Enterprise software,N. America
+610,./InsiderPitchPDFs/OrbitalWitness.pdf,Seed,Enterprise software,Europe
+611,./InsiderPitchPDFs/Organise.pdf,Seed,Social impact,Europe
+612,./InsiderPitchPDFs/Origin.pdf,Seed,Consumer app,Europe
+613,./InsiderPitchPDFs/ORIGYN.pdf,Seed,Data management,Europe
+614,./InsiderPitchPDFs/Osano.pdf,Seed,Consumer app,N. America
+615,./InsiderPitchPDFs/Oso.pdf,SeriesA,Enterprise software,N. America
+616,./InsiderPitchPDFs/OssoVR.pdf,SeriesC,Healthcare,N. America
+617,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+618,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+619,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+620,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+621,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+622,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+623,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+624,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+625,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+626,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+627,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+628,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+629,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+630,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+631,./InsiderPitchPDFs/PapayaGlobal.pdf,SeriesD,Enterprise software,N. America
+632,./InsiderPitchPDFs/Paper.pdf,SeriesC,Education,N. America
+633,./InsiderPitchPDFs/Parafin.pdf,SeriesB,Fintech,N. America
+634,./InsiderPitchPDFs/ParallelLearning.pdf,SeriesA,Healthcare,N. America
+635,./InsiderPitchPDFs/Pareto.pdf,Seed,Enterprise software,N. America
+636,./InsiderPitchPDFs/Paretos.pdf,Seed,Data management,Europe
+637,./InsiderPitchPDFs/Parsec.pdf,SeriesB,Enterprise software,N. America
+638,./InsiderPitchPDFs/Particle.pdf,SeriesC,Enterprise software,N. America
+639,./InsiderPitchPDFs/Pasqal.pdf,SeriesA,Cloud,Europe
+640,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+641,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+642,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+643,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+644,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+645,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+646,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+647,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+648,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+649,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+650,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+651,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+652,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+653,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+654,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+655,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+656,./InsiderPitchPDFs/Persona.pdf,SeriesC,Enterprise software,N. America
+657,./InsiderPitchPDFs/Personetics.pdf,Growth,Fintech,Middle East
+658,./InsiderPitchPDFs/Phenom.pdf,SeriesD,Enterprise software,N. America
+659,./InsiderPitchPDFs/Picnic.pdf,SeriesA,Advertising,Europe
+660,./InsiderPitchPDFs/PilgrimSoul.pdf,Seed,Cannabis,N. America
+661,./InsiderPitchPDFs/Pillar.pdf,Seed,Fintech,N. America
+662,./InsiderPitchPDFs/Pinecone.pdf,SeriesA,Data management,N. America
+663,./InsiderPitchPDFs/Pinwheel.pdf,SeriesB,Data management,N. America
+664,./InsiderPitchPDFs/PistilData.pdf,Seed,Cannabis,N. America
+665,./InsiderPitchPDFs/Pitch.pdf,SeriesB,Enterprise software,Europe
+666,./InsiderPitchPDFs/Pixeom.pdf,SeriesA,Enterprise software,N. America
+667,./InsiderPitchPDFs/PlanetWatchers.pdf,SeriesA,Enterprise software,Europe
+668,./InsiderPitchPDFs/Platformsh.pdf,SeriesC,Enterprise software,Europe
+669,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+670,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+671,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+672,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+673,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+674,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+675,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+676,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+677,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+678,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+679,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+680,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+681,./InsiderPitchPDFs/PQShield.pdf,SeriesA,Cybersecurity,Europe
+682,./InsiderPitchPDFs/PQShield.pdf,Seed,Cybersecurity,Europe
+683,./InsiderPitchPDFs/PrimaryBid.pdf,SeriesB,Fintech,Europe
+684,./InsiderPitchPDFs/PrimaryBid.pdf,SeriesC,Fintech,Europe
+685,./InsiderPitchPDFs/Primer.pdf,SeriesA,Enterprise software,N. America
+686,./InsiderPitchPDFs/Productfy.pdf,SeriesA,Fintech,N. America
+687,./InsiderPitchPDFs/Promethium.pdf,SeriesA,Data management,N. America
+688,./InsiderPitchPDFs/ProofTechnology.pdf,SeriesA,Enterprise software,N. America
+689,./InsiderPitchPDFs/ProperFinance.pdf,Seed,Fintech,N. America
+690,./InsiderPitchPDFs/Proper.pdf,Seed,Healthcare,N. America
+691,./InsiderPitchPDFs/PublicGoods.pdf,Seed,Retail,N. America
+692,./InsiderPitchPDFs/Pulley.pdf,SeriesA,Data management,N. America
+693,./InsiderPitchPDFs/PyramidAnalytics.pdf,SeriesE,Data management,Europe
+694,./InsiderPitchPDFs/Qonsent.pdf,Seed,Data management,N. America
+695,./InsiderPitchPDFs/Qover.pdf,SeriesB,Enterprise software,Europe
+696,./InsiderPitchPDFs/Quaise.pdf,SeriesA,Hardware,N. America
+697,./InsiderPitchPDFs/Quantexa.pdf,SeriesD,Data management,N. America
+698,./InsiderPitchPDFs/QuestDB.pdf,SeriesA,Data management,N. America
+699,./InsiderPitchPDFs/Quinyx.pdf,Seed,Enterprise software,Europe
+700,./InsiderPitchPDFs/Qunomedical.pdf,SeriesA,Healthcare,Europe
+701,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+702,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+703,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+704,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+705,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+706,./InsiderPitchPDFs/Reachdesk.pdf,SeriesA,Enterprise tech,N. America
+707,./InsiderPitchPDFs/RealFriend.pdf,Seed,Real Estate,Middle East
+708,./InsiderPitchPDFs/Realtime.pdf,SeriesA,Enterprise software,N. America
+709,./InsiderPitchPDFs/Recast.pdf,Seed,Enterprise software,N. America
+710,./InsiderPitchPDFs/Recess.pdf,SeriesA,Enterprise software,N. America
+711,./InsiderPitchPDFs/ReCodeTherapeudics.pdf,SeriesB,Healthcare,N. America
+712,./InsiderPitchPDFs/7bridges.pdf,SeriesA,Data management,Europe
+713,./InsiderPitchPDFs/8base.pdf,SeriesA,Enterprise software,N. America
+714,./InsiderPitchPDFs/AChamps.pdf,Seed,Media,N. America
+715,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+716,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+717,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+718,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+719,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+720,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+721,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+722,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+723,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+724,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+725,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+726,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+727,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+728,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+729,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+730,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+731,./InsiderPitchPDFs/Rive.pdf,SeriesA,Enterprise software,N. America
+732,./InsiderPitchPDFs/Roadrunner.pdf,SeriesD,Enterprise software,N. America
+733,./InsiderPitchPDFs/RobinAI.pdf,Seed,Data management,Europe
+734,./InsiderPitchPDFs/Rosaly.pdf,SeriesA,Fintech,Europe
+735,./InsiderPitchPDFs/Rove.pdf,Seed,Real estate,N. America
+736,./InsiderPitchPDFs/Rows.pdf,SeriesB,Enterprise software,Europe
+737,./InsiderPitchPDFs/Rundit.pdf,Seed,Finance,Europe
+738,./InsiderPitchPDFs/RyseHealth.pdf,Seed,Healthcare,N. America
+739,./InsiderPitchPDFs/Sable.pdf,Seed,Fintech,N. America
+740,./InsiderPitchPDFs/SafeGraph.pdf,SeriesB,Enterprise software,N. America
+741,./InsiderPitchPDFs/SafeGuardPrivacy.pdf,Seed,Enterprise software,N. America
+742,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+743,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+744,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+745,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+746,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+747,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+748,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+749,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+750,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+751,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+752,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+753,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+754,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+755,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+756,./InsiderPitchPDFs/Selfbook.pdf,SeriesA,Travel,N. America
+757,./InsiderPitchPDFs/SempreHealth.pdf,SeriesA,Healthcare,N. America
+758,./InsiderPitchPDFs/Setpoint.pdf,SeriesA,Real estate,N. America
+759,./InsiderPitchPDFs/Seyna.pdf,SeriesA,Enterprise software,Europe
+760,./InsiderPitchPDFs/Shares.pdf,SeriesB,Fintech,Europe
+761,./InsiderPitchPDFs/Sharpist.pdf,SeriesA,Enterprise software,Europe
+762,./InsiderPitchPDFs/Sherpa.pdf,Seed,Travel,N. America
+763,./InsiderPitchPDFs/Shipium.pdf,SeriesB,E-commerce,N. America
+764,./InsiderPitchPDFs/SignalAI.pdf,SeriesC,Data management,Europe
+765,./InsiderPitchPDFs/SignalAI.pdf,SeriesD,Data management,Europe
+766,./InsiderPitchPDFs/Signpost.pdf,SeriesD,Enterprise software,N. America
+767,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+768,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+769,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+770,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+771,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+772,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+773,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+774,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+775,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+776,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+777,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+778,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+779,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+780,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+781,./InsiderPitchPDFs/Snapcommerce.pdf,SeriesB,E-commerce,N. America
+782,./InsiderPitchPDFs/Sofa.pdf,SeriesA,Healthcare,N. America
+783,./InsiderPitchPDFs/SollisHealth.pdf,SeriesA,Healthcare,N. America
+784,./InsiderPitchPDFs/SoLoFunds.pdf,Pre-seed,Fintech,N. America
+785,./InsiderPitchPDFs/Sololearn.pdf,SeriesB,Education,Asia
+786,./InsiderPitchPDFs/7bridges.pdf,Seed,Europe,Europe
+787,./InsiderPitchPDFs/7bridges.pdf,SeriesA,Data management,Europe
+788,./InsiderPitchPDFs/8base.pdf,SeriesA,Enterprise software,N. America
+789,./InsiderPitchPDFs/AChamps.pdf,Seed,Media,N. America
+790,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+791,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+792,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+793,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+794,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+795,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+796,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+797,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+798,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+799,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+800,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+801,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+802,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+803,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+804,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+805,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+806,./InsiderPitchPDFs/Starburst.pdf,SeriesD,Data management,N. America
+807,./InsiderPitchPDFs/StarkWare.pdf,SeriesC,Fintech,Middle East
+808,./InsiderPitchPDFs/StationMD.pdf,Seed,Healthcare,N. America
+809,./InsiderPitchPDFs/Stayflexi.pdf,Seed,Hospitality,N. America
+810,./InsiderPitchPDFs/Sternum.pdf,SeriesA,Cybersecurity,Middle East
+811,./InsiderPitchPDFs/Stix.pdf,SeriesA,Retail,N. America
+812,./InsiderPitchPDFs/Stoke.pdf,Seed,Enterprise software,N. America
+813,./InsiderPitchPDFs/Storai.pdf,SeriesA,E-commerce,Middle East
+814,./InsiderPitchPDFs/Storyboard.pdf,Seed,Media,N. America
+815,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+816,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+817,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+818,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+819,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+820,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+821,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+822,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+823,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+824,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+825,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+826,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+827,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+828,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+829,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+830,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+831,./InsiderPitchPDFs/Surfboard.pdf,Seed,Enterprise software,Europe
+832,./InsiderPitchPDFs/Suzy.pdf,SeriesD,Media,N. America
+833,./InsiderPitchPDFs/Suzy.pdf,SeriesC,Data management,N. America
+834,./InsiderPitchPDFs/SwiftMedical.pdf,SeriesB,Healthcare,N. America
+835,./InsiderPitchPDFs/Swit.pdf,Seed,Enterprise software,N. America
+836,./InsiderPitchPDFs/Switchboard.pdf,SeriesA,Enterprise software,N. America
+837,./InsiderPitchPDFs/7bridges.pdf,SeriesA,Data management,Europe
+838,./InsiderPitchPDFs/8base.pdf,SeriesA,Enterprise software,N. America
+839,./InsiderPitchPDFs/AChamps.pdf,Seed,Media,N. America
+840,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+841,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+842,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+843,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+844,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+845,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+846,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+847,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+848,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+849,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+850,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+851,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+852,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+853,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+854,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+855,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+856,./InsiderPitchPDFs/TheSmartTireCompany.pdf,Venture,Retail,N. America
+857,./InsiderPitchPDFs/Themis.pdf,Seed,Enterprise software,Asia
+858,./InsiderPitchPDFs/Thinknum.pdf,SeriesA,Data management,N. America
+859,./InsiderPitchPDFs/ThoughtSpot.pdf,SeriesE,Data management,N. America
+860,./InsiderPitchPDFs/ThreeShipsBeauty.pdf,Seed,E-commerce,N. America
+861,./InsiderPitchPDFs/7bridges.pdf,Seed,Europe,Europe
+862,./InsiderPitchPDFs/7bridges.pdf,SeriesA,Data management,Europe
+863,./InsiderPitchPDFs/8base.pdf,SeriesA,Enterprise software,N. America
+864,./InsiderPitchPDFs/AChamps.pdf,Seed,Media,N. America
+865,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+866,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+867,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+868,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+869,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+870,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+871,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+872,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+873,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+874,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+875,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+876,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+877,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+878,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+879,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+880,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+881,./InsiderPitchPDFs/TreeCard.pdf,Seed,Fintech,Europe
+882,./InsiderPitchPDFs/Tricolor.pdf,Venture,Fintech,N. America
+883,./InsiderPitchPDFs/Tromzo.pdf,Seed,Cybersecurity,N. America
+884,./InsiderPitchPDFs/TroyMedicare.pdf,SeriesB,Healthcare,N. America
+885,./InsiderPitchPDFs/Trumid.pdf,SeriesC,Fintech,N. America
+886,./InsiderPitchPDFs/TRUTH.pdf,Seed,Media,N. America
+887,./InsiderPitchPDFs/Trym.pdf,Seed,Cannabis,N. America
+888,./InsiderPitchPDFs/Tulipshare.pdf,Seed,Fintech,Europe
+889,./InsiderPitchPDFs/AChamps.pdf,Seed,Media,N. America
+890,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+891,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+892,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+893,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+894,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+895,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+896,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+897,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+898,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+899,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+900,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+901,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+902,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+903,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+904,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+905,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+906,./InsiderPitchPDFs/Upstream.pdf,Seed,Consumer app,N. America
+907,./InsiderPitchPDFs/Uptime.pdf,Seed,Online learning,Europe
+908,./InsiderPitchPDFs/Uptop.pdf,Seed,Real estate,N. America
+909,./InsiderPitchPDFs/Upvest.pdf,SeriesA,Fintech,Europe
+910,./InsiderPitchPDFs/UtilizeCore.pdf,Seed,Real Estate,N. America
+911,./InsiderPitchPDFs/V7.pdf,SeriesA,Data management,Europe
+912,./InsiderPitchPDFs/Vaayu.pdf,Seed,Enterprise software,Europe
+913,./InsiderPitchPDFs/Valuecase.pdf,Pre-seed,Enterprise software,Europe
+914,./InsiderPitchPDFs/VanMoof.pdf,SeriesB,Transportation,Europe
+915,./InsiderPitchPDFs/Veem.pdf,Strategic round,Fintech,N. America
+916,./InsiderPitchPDFs/Verbit.pdf,SeriesD,Enterprise software,Middle East
+917,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+918,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+919,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+920,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+921,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+922,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+923,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+924,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+925,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+926,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+927,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+928,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+929,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+930,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+931,./InsiderPitchPDFs/Vinterior.pdf,SeriesA,E-commerce,Europe
+932,./InsiderPitchPDFs/ViraHealth.pdf,SeriesA,Healthcare,Europe
+933,./InsiderPitchPDFs/VitableHealth.pdf,Seed,Healthcare,N. America
+934,./InsiderPitchPDFs/Vital.pdf,SeriesA,Healthcare,New Zealand
+935,./InsiderPitchPDFs/Voi.pdf,SeriesC,Transportation,Europe
+936,./InsiderPitchPDFs/7bridges.pdf,Seed,Europe,Europe
+937,./InsiderPitchPDFs/7bridges.pdf,SeriesA,Data management,Europe
+938,./InsiderPitchPDFs/8base.pdf,SeriesA,Enterprise software,N. America
+939,./InsiderPitchPDFs/AChamps.pdf,Seed,Media,N. America
+940,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+941,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+942,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+943,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+944,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+945,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+946,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+947,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+948,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+949,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+950,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+951,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+952,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+953,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+954,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+955,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+956,./InsiderPitchPDFs/WellDot.pdf,SeriesA,Healthcare,N. America
+957,./InsiderPitchPDFs/WhereIsMyTransport.pdf,SeriesA,Transportation,Africa
+958,./InsiderPitchPDFs/Willa.pdf,SeriesA,Fintech,Europe
+959,./InsiderPitchPDFs/Wingback.pdf,Pre-seed,Enterprise software,N. America
+960,./InsiderPitchPDFs/Wingly.pdf,SeriesA,Transportation,Europe
+961,./InsiderPitchPDFs/7bridges.pdf,Seed,Europe,Europe
+962,./InsiderPitchPDFs/7bridges.pdf,SeriesA,Data management,Europe
+963,./InsiderPitchPDFs/8base.pdf,SeriesA,Enterprise software,N. America
+964,./InsiderPitchPDFs/AChamps.pdf,Seed,Media,N. America
+965,./InsiderPitchPDFs/Abatable.pdf,Seed,Enterprise software,Europe
+966,./InsiderPitchPDFs/Ably.pdf,SeriesB,Data management,Europe
+967,./InsiderPitchPDFs/AccelClub.pdf,SeriesA,Retail,Europe
+968,./InsiderPitchPDFs/AccuRx.pdf,SeriesB,Healthcare,Europe
+969,./InsiderPitchPDFs/Aceiss.pdf,Seed,Cybersecurity,N. America
+970,./InsiderPitchPDFs/AceUp.pdf,Seed,Online learning,N. America
+971,./InsiderPitchPDFs/Acin.pdf,SeriesA,Fintech,Europe
+972,./InsiderPitchPDFs/Acquco.pdf,SeriesA,E-commerce,N. America
+973,./InsiderPitchPDFs/AdaHealth.pdf,SeriesB,Healthcare,Europe
+974,./InsiderPitchPDFs/AERAHealth.pdf,Pre-seed,Healthcare,Europe
+975,./InsiderPitchPDFs/Aeris.pdf,SeriesA,Consumer tech,N. America
+976,./InsiderPitchPDFs/AffiniT.pdf,SeriesB,Healthcare,N. America
+977,./InsiderPitchPDFs/Afrocenchix.pdf,Seed,Retail,Europe
+978,./InsiderPitchPDFs/AgaveGames.pdf,Seed,Media,Middle East
+979,./InsiderPitchPDFs/AgBiome.pdf,SeriesD,Agriculture,N. America
+980,./InsiderPitchPDFs/AgerasGroup.pdf,Venture,Fintech,Europe
+981,./InsiderPitchPDFs/YumiNutrition.pdf,Seed,Consumer app,Europe
+982,./InsiderPitchPDFs/Zestful.pdf,Seed,Enterprise software,N. America
+983,./InsiderPitchPDFs/Zeta.pdf,SeriesC,Fintech,Asia
+984,./InsiderPitchPDFs/Zevoy.pdf,SeriesA,Fintech,Europe
+985,./InsiderPitchPDFs/ZoeFinancial.pdf,Seed,Fintech,N. America
+986,./InsiderPitchPDFs/7bridges.pdf,Seed,Europe,Europe

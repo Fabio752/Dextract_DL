@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import StaleElementReferenceException
 import time
 import requests
 from io import BytesIO
@@ -8,6 +9,7 @@ from PIL import Image
 from PyPDF2 import PdfMerger
 import pandas as pd
 from pathlib import Path
+import re
 
 driver = webdriver.Chrome()
 driver.get(
@@ -16,8 +18,7 @@ driver.get(
 login_btn = driver.find_element(By.CLASS_NAME, "account-text-not-logged-in")
 login_btn.click()
 
-time.sleep(2)
-
+driver.implicitly_wait(3)
 email_textbox = driver.find_element(By.ID, "email")
 email_textbox.send_keys('at675@cornell.edu')
 
@@ -26,8 +27,7 @@ pwd_textbox.send_keys('Cs5787dl')
 
 login_btn = driver.find_element(By.CLASS_NAME, "login-button")
 login_btn.click()
-time.sleep(4)
-
+driver.implicitly_wait(5)
 # once logged in:
 iframe = driver.find_element(
     By.ID, "datawrapper-chart-HtQqi")
@@ -35,22 +35,25 @@ iframe = driver.find_element(
 table_url = iframe.get_attribute("src")
 
 driver.get(table_url)
-time.sleep(1)
-
+driver.implicitly_wait(1)
 pitch_df = pd.DataFrame(columns=["Local Link", "Stage", "Industry", "Region"])
 
-len_table_page = len(driver.find_elements(
-    By.CLASS_NAME, "datawrapper-HtQqi-1m87fdh"))
 
 print("Start Scraping... \n")
 
-for page_num in range(1, 41):
-    for i in range(len_table_page):
-
-        next_btn = driver.find_element(By.CLASS_NAME, "next")
-        for next_clicks in range(page_num - 1):
+for page_num in range(1, 42):
+    next_btn = driver.find_element(By.CLASS_NAME, "next")
+    for next_clicks in range(page_num - 1):
+        try:
             next_btn.click()
+        except StaleElementReferenceException:
+            pass
 
+    print("Page Number: ", page_num)
+    len_table_page = len(driver.find_elements(
+        By.CLASS_NAME, "datawrapper-HtQqi-1m87fdh"))
+
+    for i in range(len_table_page):
         row = driver.find_elements(
             By.CLASS_NAME, "datawrapper-HtQqi-1m87fdh")[i]
         tds = row.find_elements(By.XPATH, ".//td")
@@ -58,15 +61,18 @@ for page_num in range(1, 41):
 
         startup_link = row.find_element(
             By.XPATH, ".//th/a").get_attribute("href")
-        startup_name = row.find_element(By.XPATH, ".//th/a").text
+        startup_name = row.find_element(
+            By.XPATH, ".//th/a").text.replace(" ", "")
+
+        startup_name = re.sub('[^0-9a-zA-Z]+', '', startup_name)
 
         print("Now Scraping Startup: ", startup_name)
 
-        local_path = "./PitchPDFs/" + startup_name + '.pdf'
+        local_path = "./InsiderPitchPDFs/" + startup_name + '.pdf'
         if (not Path(local_path).is_file()):
             driver.get(startup_link)
 
-            time.sleep(1.5)
+            driver.implicitly_wait(1)
             pitch_divs = driver.find_elements(By.CLASS_NAME, "slide")
 
             image_links = []
@@ -92,11 +98,11 @@ for page_num in range(1, 41):
                 pdf_merger.write(f)
 
             driver.get(table_url)
-            time.sleep(1.5)
+            driver.implicitly_wait(1)
 
         row_vals = [local_path] + row_vals
         pitch_df.loc[len(pitch_df)] = row_vals
 
-pitch_df.to_csv("pitch_decks")
+pitch_df.to_csv("./data/insider_pitch_decks.csv")
 # time.sleep(5)
 driver.quit()
